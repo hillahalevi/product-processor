@@ -1,6 +1,6 @@
-package com.ebay.candidates.productprocessor.entity;
+package com.challange.one.productprocessor.entity;
 
-import com.ebay.candidates.productprocessor.model.Attribute;
+import com.challange.one.productprocessor.model.Attribute;
 import com.google.common.base.MoreObjects;
 import com.google.common.base.Objects;
 import org.springframework.data.annotation.Id;

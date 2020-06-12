@@ -1,6 +1,6 @@
-package com.ebay.candidates.productprocessor.service;
+package com.challange.one.productprocessor.service;
 
-import com.ebay.candidates.productprocessor.model.Product;
+import com.challange.one.productprocessor.model.Product;
 
 public interface IProductProcesorService {
 

@@ -1,7 +1,7 @@
-package com.ebay.candidates.productprocessor.controller;
+package com.challange.one.productprocessor.controller;
 
-import com.ebay.candidates.productprocessor.model.Product;
-import com.ebay.candidates.productprocessor.service.IProductProcesorService;
+import com.challange.one.productprocessor.model.Product;
+import com.challange.one.productprocessor.service.IProductProcesorService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

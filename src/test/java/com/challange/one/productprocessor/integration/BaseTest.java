@@ -1,6 +1,6 @@
-package com.ebay.candidates.productprocessor.integration;
+package com.challange.one.productprocessor.integration;
 
-import com.ebay.candidates.productprocessor.ProductProcessorApplication;
+import com.challange.one.productprocessor.ProductProcessorApplication;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.context.SpringBootTest.WebEnvironment;

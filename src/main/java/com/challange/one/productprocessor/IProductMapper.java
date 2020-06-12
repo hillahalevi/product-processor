@@ -1,7 +1,7 @@
-package com.ebay.candidates.productprocessor;
+package com.challange.one.productprocessor;
 
-import com.ebay.candidates.productprocessor.entity.ProductDo;
-import com.ebay.candidates.productprocessor.model.Product;
+import com.challange.one.productprocessor.entity.ProductDo;
+import com.challange.one.productprocessor.model.Product;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.Mappings;

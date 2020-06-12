@@ -1,10 +1,10 @@
-package com.ebay.candidates.productprocessor.service;
+package com.challange.one.productprocessor.service;
 
-import com.ebay.candidates.productprocessor.IProductMapper;
-import com.ebay.candidates.productprocessor.entity.ProductDo;
-import com.ebay.candidates.productprocessor.model.Attribute;
-import com.ebay.candidates.productprocessor.model.Product;
-import com.ebay.candidates.productprocessor.repository.ProductRepository;
+import com.challange.one.productprocessor.IProductMapper;
+import com.challange.one.productprocessor.entity.ProductDo;
+import com.challange.one.productprocessor.model.Attribute;
+import com.challange.one.productprocessor.model.Product;
+import com.challange.one.productprocessor.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 

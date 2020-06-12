@@ -1,7 +1,7 @@
-package com.ebay.candidates.productprocessor.integration;
+package com.challange.one.productprocessor.integration;
 
-import com.ebay.candidates.productprocessor.model.Attribute;
-import com.ebay.candidates.productprocessor.model.Product;
+import com.challange.one.productprocessor.model.Attribute;
+import com.challange.one.productprocessor.model.Product;
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;
 import org.junit.Test;

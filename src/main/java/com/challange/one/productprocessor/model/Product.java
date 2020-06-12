@@ -1,4 +1,4 @@
-package com.ebay.candidates.productprocessor.model;
+package com.challange.one.productprocessor.model;
 
 import com.google.common.base.MoreObjects;
 import com.google.common.base.Objects;
